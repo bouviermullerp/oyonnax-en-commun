@@ -1,4 +1,4 @@
-# oyonnax-en-commun
+# Oyonnax en commun
 
 Bienvenue sur la page d'*Oyonnax en commun*.
 
